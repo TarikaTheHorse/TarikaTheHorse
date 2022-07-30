@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/My_OC/tail"
+	"$bumpmap" "models/My_OC/blank_n"
+	"$Phongexponenttexture" "models/My_OC/phongexponenttexture"
+	
+	//"$color2"	"[.8 .8 .8]"
+	"$blendtintbybasealpha" "1"
+
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongalbedotint"	"1"
+	"$phongfresnelranges"	"[0.5 4.75 5]"
+
+	"$halflambert" "1"
+	"$ambientocclusion" "1"
+
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimmask" "1"
+}

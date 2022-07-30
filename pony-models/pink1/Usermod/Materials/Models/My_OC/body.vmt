@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 				"models/My_OC/body"
+	"$bumpmap" 		"models/My_OC/body_n"
+	"$phongexponenttexture" 	"models/My_OC/body_exponent"
+
+//	TECHNICAL STUFF
+
+	"$basemapalphaphongmask" "0"
+	"$halflambert" "0"
+	"$ambientocclusion" "1"
+
+//	PHONG
+
+	"$phong" "1"
+	"$phongboost" "1.5"	
+	"$phongfresnelranges"	"[.3 5 8]"
+ 
+//	RIMLIGHT
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" "2"
+}

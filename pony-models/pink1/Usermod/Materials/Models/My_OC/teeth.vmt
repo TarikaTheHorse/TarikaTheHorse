@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/My_OC/teeth"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.1"	
+	"$phongfresnelranges"	"[.3 5 8]"
+	"$phongexponenttexture" "models/My_OC/phongexponenttexture"
+	"$halflambert" "0"
+	"$basemapalphaphongmask" "1"
+ 
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"	
+	"$rimlightboost" "2"
+
+	"$ambientocclusion" "1"
+}

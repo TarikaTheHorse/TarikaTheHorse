@@ -1,0 +1,10 @@
+"eyes"
+{
+	"$basetexture" "models/My_OC/eyeball_l"
+	"$iris" "models/My_OC/pupil_l"
+	"$halflambert" "1"
+
+	"$ambientocclusion" "1"
+	
+	"$cloakPassEnabled" 		"1"
+}

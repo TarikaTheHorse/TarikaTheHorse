@@ -1,0 +1,8 @@
+"eyes"
+{
+	"$basetexture" "models/My_OC/eyeball_l"
+	"$iris" "models/My_OC/pupil_l_medium"
+	"$halflambert" "1"
+
+	"$ambientocclusion" "1"
+}
